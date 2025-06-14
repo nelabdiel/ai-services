@@ -79,6 +79,12 @@ h3 {
   transition: color 0.2s ease;
 }
 
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .hero a:hover {
   color: #1d4ed8;
   text-decoration: underline;
